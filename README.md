@@ -1,5 +1,5 @@
 <h2>☄️Hey! I'm Emir.</h2>
-<h3 align="left">I am studying management information systems at Istanbul Aydın University</h3>
+
 
 - 🌱 I’m currently learning **Data Science, SQL, Python**
 
@@ -19,11 +19,4 @@
 <a href="https://discord.com/" target="_blank" rel=”noopener”> <img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/91_Discord_logo_logos-512.png" alt="discord" width="30" height="30"/> </a> 
 <a href="https://slack.com/intl/en-tr/" target="_blank" rel=”noopener”> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Slack_icon_2019.svg/2048px-Slack_icon_2019.svg.png" alt="slack" width="30" height="30"/> </a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=memirdogan&" alt="memirdogan" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=memirdogan&show_icons=true&locale=en" alt="memirdogan" /></p>
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=memirdogan&label=Profile%20views&color=0e75b6&style=flat" alt="memirdogan" /> </p>
-
-
-
-
